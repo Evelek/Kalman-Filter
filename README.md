@@ -4,4 +4,4 @@ In the picture below we can see 3 graphs. The first one at the top shows the rea
 The second one in the middle shows the position that was measured by a device.
 The last one at the bottom shows the position of the object that was corrected by Kalman Filter Algorithm.
 
-![alt text](http://i.imgur.com/8OnIm5m.png)
+![alt text](http://i.imgur.com/Z2eRFuy.png)
