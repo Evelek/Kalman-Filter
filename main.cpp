@@ -31,8 +31,8 @@ int main() {
 
 
 	// GIVEN
-	double V0x_velocity = { 0.00137918195926662657 }; 
-	double x0_position = { 0.0002550105561488041060 };
+	double V0x_velocity = { 0.022758363918533253 };
+	double x0_position = { 1.847020466967119301 };
 
 	// INITIAL CONDITIONS
 	double ax = { 0 }; // accelaration
